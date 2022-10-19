@@ -15,18 +15,18 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 - Communication Skills
 
 ### Skills & Experience
-###### Technolgies
-- Python, TSQL, GraphQL, Artificial Intelligence, Deep Learning (DL), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Graphs
-###### Databases
-- MySQL, SQL Server, Neo4j
-###### Cloud Services
-- AWS - RDS, EC2, S3, DynamoDB, Elastic Cache
-###### Data Engineering
-- ETL Pipelines, Pentaho, Data warehousing (DWH)
-###### Search Platforms
-- Apache Solr
-###### General
-- Data Preparation, Data Analysis, Statistical Analysis, Data Visualization, Agile Methodologies
+- Technolgies
+  - Python, TSQL, GraphQL, Artificial Intelligence, Deep Learning (DL), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Graphs
+- Databases
+  - MySQL, SQL Server, Neo4j
+- Cloud Services
+  - AWS - RDS, EC2, S3, DynamoDB, Elastic Cache
+- Data Engineering
+  - ETL Pipelines, Pentaho, Data warehousing (DWH)
+- Search Platforms
+  - Apache Solr
+- General
+  - Data Preparation, Data Analysis, Statistical Analysis, Data Visualization, Agile Methodologies
 
 ### RESEARCH PROJECT
 ##### Generation and Detection of Deepfakes
@@ -46,7 +46,7 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
   - Provides intuitive way of finding relationships.
   - Worked on designing, developing, syncing and writing workflows with the help of Cypher-Python implementation.
 
-[![xiQ's Journey](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/xqKhPVy2yP0)
+[![xiQ's Journey](https://github.com/talalhassann/talalhassann/blob/main/Screenshot%202022-10-20%20004143.png)](https://youtu.be/xqKhPVy2yP0)
 
 ### ⚡ Things I Love
 - I'm a reader be it a book or a mind
