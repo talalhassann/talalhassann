@@ -28,6 +28,26 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 ###### General
 - Data Preparation, Data Analysis, Statistical Analysis, Data Visualization, Agile Methodologies
 
+### RESEARCH PROJECT
+##### Generation and Detection of Deepfakes
+- Researched on developing an algorithm for the detection of Deepfakes, highlights include:
+  - Generation part focused on utilizing state-of-the-art GAN architectures.
+  - Detection part followed a hybrid approach, face detection was based on SSD Multibox (VGG-16) architecture
+  - And the decision part briefly utilized MesoNet properties and majorly benefited from Temporal Convolution
+  - Network (TCN) architecture with flexible receptive fields.
+  - Results evaluated on Precision score.
+
+### INDUSTRY PROJECTS
+##### ICP Recommendation Engine
+- Tired of trying finding the right prospects? This projects aims to facilitate in targeted marketing:
+  - User activity based recommendation.
+  - High feature capability; considers engagement, personality analysis & user intent data.
+  - Structurally based on Neo4j graph database which significantly improves information retrieval.
+  - Provides intuitive way of finding relationships.
+  - Worked on designing, developing, syncing and writing workflows with the help of Cypher-Python implementation.
+
+[![xiQ's Journey](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/xqKhPVy2yP0)
+
 ### ⚡ Things I Love
 - I'm a reader be it a book or a mind
 - I love moon sight in a cozy, dark winter nights
@@ -35,6 +55,8 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
   - Won Garrison U-16 Men's singles badminton championship.
   - PCB U-16 district color player.
   - Runner's up in college soccer league.
+
+![These are just some of the things that make me feel alive!](https://github.com/talalhassann/talalhassann/blob/main/collage.png)
 
 ### A Little About Me
 - 🔭 I’m currently working on NLP & DL projects 
