@@ -74,9 +74,9 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 #### ETL Data Pipelines
 - Evaluated Source & Destination DB structure
   - Migrating from one platform to another.
-  - Handled custom T-SQL scripting for performing data migration
-  - Extraction of client's data
-  - Transforming according to companyʼs structural requirement
+  - Handled custom T-SQL scripting for performing data migration.
+  - Extraction of client's data.
+  - Transforming according to companyʼs structural requirement.
   - Loading the data in production ready databases.
   - Healthcare Industry's data is always critical and losing patient's historical information can be costly:
 
@@ -92,8 +92,8 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 - Neo4j Graph Data Science Certified
 
 ## Things I Love
-- I'm a reader be it a book or a mind
-- I love moon sight in a cozy, dark winter nights
+- I'm a reader be it a book or a mind.
+- I love moon sight in a cozy, dark winter nights.
 - I'm more of an outdoor sports fan with  a few distinction under my name:
   - Won Garrison U-16 Men's singles badminton championship.
   - PCB U-16 district color player.
@@ -104,10 +104,10 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 </p>
 
 ## A Little About Me
-- 🔭 I love to explore unexplored 
+- 🔭 I love to explore unexplored.
 - 🌱 I’m always open to learning new things or going on a long drives.
-- 💬 Ask me about anything but politics 
-- ⚡ Fun fact: I'm a Night Owl 
+- 💬 Ask me about anything but politics. 
+- ⚡ Fun fact: I'm a Night Owl.
 - 📫 How to reach me: +92-305-5581595 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/talalhassann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/talal-talal/)  
