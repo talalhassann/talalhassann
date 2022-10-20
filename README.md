@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img width="60%" src="https://github.com/talalhassann/talalhassann/blob/main/cover.png">
+    <img width="70%" src="https://github.com/talalhassann/talalhassann/blob/main/cover.png">
 </p>
  
 ## TALAL HASSAN
@@ -66,7 +66,7 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 
 <a href="https://youtu.be/xqKhPVy2yP0">
   <p align="center" width="100%">
-      <img width="50%" src="https://github.com/talalhassann/talalhassann/blob/main/xiqCopy.png">
+      <img width="60%" src="https://github.com/talalhassann/talalhassann/blob/main/xiqCopy.png">
   </p>
 </a>
 
@@ -82,7 +82,7 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 
 <a href="https://youtu.be/bADIfQ5VLSc">
   <p align="center" width="100%">
-      <img width="40%" src="https://github.com/talalhassann/talalhassann/blob/main/curemd.png">
+      <img width="60%" src="https://github.com/talalhassann/talalhassann/blob/main/curemd1.png">
   </p>
 </a>
 
