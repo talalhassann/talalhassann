@@ -12,9 +12,10 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
 - Databases
 - Machine Learning / Deep Learning
 - Natural Language Processing (NLP)
-- Data Analytics
+- Computer Vision
+- Image Processing
+- Information Retrieval
 - Leadership
-- Communication Skills
 
 ## SKILLS
 - Technolgies
