@@ -4,22 +4,27 @@
  
 ## TALAL HASSAN
 #### I am a Data Scientist or Am I?
-I've 3+ years of extensive work experience in data-intensive projects, overcoming complex architectural and scalability challenges of Medical & B2B industry. Proficient in advance NLP, Computer Vision, Predictive Modeling and Data Engineering, hands-on experience in Python, TSQL, R. Capable of developing, testing, deploying diverse services translating business needs to substantial deliverables.
+I’m Talal, a data scientist specializing in Natural Language Processing (NLP), Large Language Models (LLMS), Information Retrieval, Optimizations, Recommendation Engines and Data Pipelines. 
+
+Experienced in distributed training/fine-tuning and deploying models, with a knack for optimizing performance through low-rank adaptation. Passionate about developing recommendation engines and information retrieval systems that enhance user experiences.
+
+I'm fascinated by the persona and behavioral aspects of AI. I strive to create systems that not only provide accurate results but also engage users on a deeper level. By understanding the nuances of human interaction, I aim to bring a touch of humanity to AI.
+
+If you're seeking a seasoned Data Scientist, a transformer tamer, or a large language model whisperer, look no further. Together, we'll create magic, laughter, and groundbreaking advancements. And hey, we might even uncover the ultimate answer to life, the universe, and everything along the way.
 
 ## EXPERTISE
 - Data Science
-- Data Engineering
-- Databases
 - Machine Learning / Deep Learning
 - Natural Language Processing (NLP)
-- Computer Vision
-- Image Processing
+- Data Pipelines
+- Data Engineering
+- Databases
 - Information Retrieval
 - Leadership
 
 ## SKILLS
 - Technolgies
-  - Python, TSQL, GraphQL, Artificial Intelligence, Deep Learning (DL), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Graphs
+  - Python, TSQL, GraphQL, Artificial Intelligence, Deep Learning (DL), Machine Learning (ML), Natural Language Processing (NLP), Graphs
 - Databases
   - MySQL, SQL Server, Neo4j
 - Cloud Services
@@ -30,15 +35,6 @@ I've 3+ years of extensive work experience in data-intensive projects, overcomin
   - Apache Solr
 - General
   - Data Preparation, Data Analysis, Statistical Analysis, Data Visualization, Agile Methodologies
-
-## RESEARCH PROJECT
-##### Generation and Detection of Deepfakes
-- Researched on developing an algorithm for the detection of Deepfakes, highlights include:
-  - Generation part focused on utilizing state-of-the-art GAN architectures.
-  - Detection part followed a hybrid approach, face detection was based on SSD Multibox (VGG-16) architecture
-  - And the decision part briefly utilized MesoNet properties and majorly benefited from Temporal Convolution
-  - Network (TCN) architecture with flexible receptive fields.
-  - Results evaluated on Precision score.
 
 ## INDUSTRY PROJECTS
 
